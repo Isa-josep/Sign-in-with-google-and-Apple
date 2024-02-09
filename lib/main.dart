@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Icon(FontAwesomeIcons.google, color: Colors.white, size: 20,),
-                    Text('  Sing In with Google', style: TextStyle(color: Colors.white),),
+                    Text('  Sign In with Google', style: TextStyle(color: Colors.white),),
                   ], 
                 ),
                 
